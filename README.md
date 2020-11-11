@@ -1,3 +1,2 @@
 # LearnJS
-study javascript on https://wangdoc.com/javascript/index.html
-write down what I learn
+write down what I learn on https://wangdoc.com/javascript/index.html
