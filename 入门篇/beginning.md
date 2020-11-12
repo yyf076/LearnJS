@@ -1,6 +1,6 @@
 #入门篇
 
-####1.JavaScript 和 Java 的关系
+#### 1.JavaScript 和 Java 的关系
 
 虽然是两种不同的语言，但是彼此之间还是存在关系。**JavaScript的基本语法和对象体系，是模仿Java而设计的**，有很大的相似性，所以JavaScript也从一开始的LiveScript改名为JavaScript，原意是很像Java的脚本语言。
 
