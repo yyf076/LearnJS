@@ -1,6 +1,6 @@
 #入门篇
 
-#### 1.JavaScript 和 Java 的关系
+####1.JavaScript 和 Java 的关系
 
 虽然是两种不同的语言，但是彼此之间还是存在关系。**JavaScript的基本语法和对象体系，是模仿Java而设计的**，有很大的相似性，所以JavaScript也从一开始的LiveScript改名为JavaScript，原意是很像Java的脚本语言。
 
@@ -10,9 +10,15 @@ JavaScript与Java的区别：JavaScript的**函数**是一种**独立的数据�
 
 JavaScript的组成部分：ECMAScript、DOM、BOM
 
+2015年已经发布了ECMAScript6，简称ES6
+
 ECMAScript和JavaScript的关系是：ECMAScript用来标准化JavaScript的基本语法结构。**前者是后者的规格，后者是前者的一种实现。**
 
-#### 3.基本语法
+#### 3.var、let和const
+
+
+
+#### 4.基本语法
 
 - JavaScript区分大小写，`A`和`a`是两个不同的变量
 
